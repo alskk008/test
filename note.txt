@@ -1,4 +1,11 @@
 http://git-scm.com/book/
 
 
+<<<<<<< HEAD
 ggggggg
+=======
+dfhfdjjd
+
+
+dfdf
+>>>>>>> d1722529cbfb32f9a62c10894b8c7505df1522fc
